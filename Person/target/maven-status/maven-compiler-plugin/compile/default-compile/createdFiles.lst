@@ -1,0 +1,6 @@
+com/self/learning/Person.class
+com/self/learning/BaseResponse.class
+com/self/learning/PersonController.class
+com/self/learning/ApplicationConfiguration.class
+com/self/learning/ApplicationInitializer.class
+com/self/learning/PersonDao.class
